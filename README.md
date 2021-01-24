@@ -28,3 +28,4 @@ By Donating, You Will Help Me To Maintain This Bot!
 - Author - PRITu0001
 
 - [Discord Server](https://discord.gg/NDTF62A)
+- [SnowFlake API](https://api.snowflakedev.xyz)
