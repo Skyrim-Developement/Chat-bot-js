@@ -35,3 +35,5 @@ By Donating, You Will Help Me To Maintain This Bot!
 - [SnowFlake API](https://api.snowflakedev.xyz)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+https://img.shields.io/github/stars/PRITu001/PRITu001?style=social
