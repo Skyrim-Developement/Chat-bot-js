@@ -33,3 +33,5 @@ By Donating, You Will Help Me To Maintain This Bot!
 
 - [Discord Server](https://discord.gg/NDTF62A)
 - [SnowFlake API](https://api.snowflakedev.xyz)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
