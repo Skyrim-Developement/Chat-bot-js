@@ -6,7 +6,7 @@ const Client = new Discord.Client();
 //Ready Event
 Client.on("ready", async () => {
     console.clear();
-    console.log(`Simple Chat Bot - ${Client.user.username} - Ready`);
+    console.log(`Discord Chat Bot - ${Client.user.username} - Ready`);
     await Client.user.setActivity(`Chatting With Members :D`, {
         type: "PLAYING"
     });
