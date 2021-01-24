@@ -1,5 +1,9 @@
 # Simple Chat Bot
 
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 A Simple Discord Chat Bot Using [Discord.js](https://www.npmjs.com/package/discord.js)
 
 - Smart & Fast
