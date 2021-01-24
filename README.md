@@ -21,16 +21,10 @@ A Simple Discord Chat Bot Using [Discord.js](https://www.npmjs.com/package/disco
 
 By Donating, You Will Help Me To Maintain This Bot!
 
-- [Paypal](https://www.paypal.com/paypalme/legendemoji)
-- [Patreon](https://www.patreon.com/LegendaryEmoji)
-- [Ko-Fi](https://ko-fi.com/LegendaryEmoji)
+- [Boost Server](https://discord.gg/NDTF62A)
 
 ### Other
 
-- Author - Legendary Emoji#1742
+- Author - PRITu0001
 
-- [Discord Server](https://discord.gg/umMpnqS)
-
-- [Snowflake Api](https://api.snowflakedev.xyz/)
-
-- [MIT License](https://github.com/LegendaryEmoji/simple-chat-bot/blob/main/LICENSE)
+- [Discord Server](https://discord.gg/NDTF62A)
