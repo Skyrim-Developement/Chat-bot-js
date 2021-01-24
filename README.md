@@ -36,4 +36,4 @@ By Donating, You Will Help Me To Maintain This Bot!
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-https://img.shields.io/github/stars/PRITu001/PRITu001?style=social
+![GitHub Repo stars](https://img.shields.io/github/stars/PRITu001/PRITu001?style=social)
