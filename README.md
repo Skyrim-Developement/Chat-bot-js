@@ -37,3 +37,8 @@ By Donating, You Will Help Me To Maintain This Bot!
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+## 📝 Discord Server
+
+<a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
+<br><br>
+</div>
